@@ -74,7 +74,6 @@ void MainWindow::on_btnConnect_clicked()
         ui->btnConnect->setText("Connect");
     }
 
-    QString test = "test";
 }
 
 
