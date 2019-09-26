@@ -73,6 +73,8 @@ void MainWindow::on_btnConnect_clicked()
         ui->lstResult->addItem("Connection close().");
         ui->btnConnect->setText("Connect");
     }
+
+    QString test = "test";
 }
 
 
